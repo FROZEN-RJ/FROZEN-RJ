@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FROZEN-RJ
 - 👀 I’m a programming aficionado
-- 🌱 I’m currently learning cyber security & AI while doing ECE
+- 🌱 I’m currently learning AWS, while explanding my skills in cyber security & AI
 - 💞️ I’m looking to collaborate on projects & gain more exposure
 - 📫 How to reach me shreyarajeev91@gmail.com
 
